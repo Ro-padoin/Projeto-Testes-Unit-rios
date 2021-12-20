@@ -1,8 +1,3 @@
-/* eslint-disable max-len */
-/* eslint-disable no-unused-vars */
-
-const circle = require('../src/circle');
-
 /*
   Essa função recebe o raio de um círculo e retorna um objeto contendo suas informações (Raio, Área e Circunferência).
   Se não for especificado um raio, a função retorna undefined.

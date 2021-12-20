@@ -31,4 +31,9 @@ const circle = (radius) => {
   };
 };
 
-module.exports = circle;
+console.log(circle('radius')); // undefined;
+console.log(circle(1)); // { radius: 1, area: 3.14, circumference: 6.28 }
+console.log(circle());  // undefined;
+console.log(circle(3)); // { radius: 3, area: 28.26 (aprox), circumference: 18.84 }
+console.log(circle(7)); // { radius: 7, area: 153.86, circumference: 43.96 }
+

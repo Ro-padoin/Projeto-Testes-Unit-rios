@@ -29,12 +29,10 @@ const average = (arrNumbers) => {
   }
 };
 
-// console.log(average([3, 4, 5])); // 4
-// console.log(average([47, 63, 122])); // 77
-// console.log(average([0, 0, 0, 0, 0, 0, 0])); // 0
-// console.log(average([0, 0, 0, 0, 0, 0, 1])); // 0
-// console.log(average([-11, 2, 5])); // -1
-// console.log(average([1, 2, 3, '4', 5])); // undefined
-// console.log(average([])); // undefined
-
-
+console.log(average([3, 4, 5])); // 4
+console.log(average([0, 0, 0, 0, 0, 0, 0])); // 0
+console.log(average([47, 63, 122])); // 77
+console.log(average([0, 0, 0, 0, 0, 0, 1])); // 0
+console.log(average([-11, 2, 5])); // -1
+console.log(average([1, 2, 3, '4', 5])); // undefined
+console.log(average([])); // undefined
