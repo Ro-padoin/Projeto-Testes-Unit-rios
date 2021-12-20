@@ -21,5 +21,3 @@ const estudante = (name) => ({
 });
 
 const createStudent = estudante;
-
-module.exports = createStudent;

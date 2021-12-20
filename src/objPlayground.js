@@ -43,5 +43,3 @@ const operations = (number1, number2) => ({
 const calculator = operations;
 
 const arrayGenerator = (type, object) => Object[type](object);
-
-module.exports = { calculator, arrayGenerator };

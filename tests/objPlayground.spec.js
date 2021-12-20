@@ -1,5 +1,3 @@
-const { calculator, arrayGenerator } = require('../src/objPlayground');
-
 /*
   Implemente a função calculator que recebe dois números inteiros como parâmetro e retorna um objeto com as seguintes chaves:
     - sum;

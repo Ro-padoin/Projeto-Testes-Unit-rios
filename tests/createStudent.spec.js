@@ -1,7 +1,3 @@
-/* eslint-disable max-len */
-
-const createStudent = require('../src/createStudent');
-
 /*
   Dada uma função chamada createStudent que recebe como parâmetro um nome, retorne um objeto que contenha duas chaves:
     (1) name, contendo o nome passado como parâmetro;

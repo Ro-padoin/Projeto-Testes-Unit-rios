@@ -1,8 +1,3 @@
-/* eslint-disable max-len */
-/* eslint-disable no-unused-vars */
-
-const numbers = require('../src/numbers');
-
 /*
   A função numbers recebe um array (tamanho variável) e retorna true se todos os parâmetros forem do tipo 'number' e false caso contrário.
 

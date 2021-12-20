@@ -1,5 +1,3 @@
-/* eslint-disable no-unused-vars */
-
 /*
   Use template literals para escrever uma função que,
   recebe seu nome e sua idade e retorna o parágrafo descrito abaixo.
@@ -25,5 +23,3 @@ Tenho ${age} anos,
 trabalho na Trybe e mando muito em programação!
 #VQV!`;
 };
-
-module.exports = vqv;
