@@ -68,3 +68,5 @@ function restaurant() {
 }
 
 const createMenu = restaurant();
+
+module_exports = createMenu();
